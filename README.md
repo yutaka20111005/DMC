@@ -11,3 +11,7 @@ Other functions are planned to add if necessary.
 ![image](https://github.com/user-attachments/assets/747281b5-dce1-443d-98b9-a7e62a29ec0c)
 
 
+As Another GUI image, DMC2 exists as follows:
+
+![image](https://github.com/user-attachments/assets/8916cbff-614f-4646-a681-7ee930d78741)
+
